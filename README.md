@@ -51,13 +51,18 @@ Example: If the row_name is "Tax Credit (if any )=" for a table where this row c
 
 Potential Improvements
 - Different excel sheet formats could be handled
+  
 - More advanced data operations
+  
 - UI integration
 
 Missed Edge Cases
 Empty Excel files
+
 Tables with no numerical data
+
 Values with the numerical data weren't actual values, instead embedded with a formula
+
 Malformed table names
 
 Testing
